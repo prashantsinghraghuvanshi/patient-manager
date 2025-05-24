@@ -3,10 +3,10 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Rishabh Shekhawat",
-  "email": "shekhawat.rishabh@example.com",
-  "address": "23 down town, jaipur",
-  "dateOfBirth": "2003-01-03",
+  "name": "Mike Wazowski",
+  "email": "mike@example.com",
+  "address": "13 monster town, Monster verse",
+  "dateOfBirth": "2001-01-24",
   "registeredDate": "2025-05-24"
 }
 
